@@ -71,7 +71,7 @@ color: aliceblue;
 .conectese {
   justify-content: center;
   height: fit-content;
-  width: 500px;
+  width: 400px;
   margin-inline: auto;
  background-color: #ff953e;
   border-radius: 999px;
@@ -117,5 +117,4 @@ height: fit-content;
 .instagram:hover{
   color: #ff5a00;
   cursor: pointer;
-  color: #ff5a00;
 }
