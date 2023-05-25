@@ -126,6 +126,7 @@ height: fit-content;
 
 
 .iconefacebook {
+  display: flex;
   height: 50px;
   padding: 0px 10px;
   align-items: center;
@@ -140,6 +141,7 @@ height: fit-content;
 }
 
 .iconeinstagram {
+  display: flex;
   height: 50px;
   padding: 0px 10px;
   align-items: center;
